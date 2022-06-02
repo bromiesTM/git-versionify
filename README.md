@@ -29,8 +29,8 @@ Options:
 - -h Help
 - -P <PATH>, --path <PATH>                  Path of the repository
 - -M, --major                               Raise current major version
-- -m, --minor                               Raise current major version
-- -p, --patch                               Raise current major version
+- -m, --minor                               Raise current minor version
+- -p, --patch                               Raise current patch version
 - -t, --tag                                 Add Version-Tag with changelog
 - -c, --no-changelog                        Exclude Changelog when adding a git tag
 - -r [<prefix>], --pre-release [<prefix>]   Raise pre-release version
